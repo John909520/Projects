@@ -1,0 +1,19 @@
+[
+	{ "Username": "John",
+		"FirstName":"John",
+		"LastName": "Kioko",
+		"Gender": "Male",
+		"Profile": "https://bit.ly/3yvX5oo",
+		"email": "kiokoj81@gmail.com"
+
+	},
+	{ "Username": "Tim",
+		"FirstName":"Timolthy",
+		"LastName": "Agevi",
+		"Gender": "Male",
+		"Profile": "https://bit.ly/3yvX5oo",
+		"email": "tim.agevi@gmail.com"
+
+	}
+
+]
